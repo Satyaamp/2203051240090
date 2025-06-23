@@ -129,6 +129,3 @@ Email: `2203051240090@paruluniversity.ac.in`
 ---
 
 ```
-
-Let me know if you'd like me to also add this to your repo automatically or generate a version tailored to frontend/full-stack!
-```
